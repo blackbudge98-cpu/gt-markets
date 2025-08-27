@@ -1,0 +1,9 @@
+The idea of our request is to be able to pull the daily finance data from either a python or kaggle file
+
+The dataframe in python needs to be able to add a column for daily changes
+
+The dataframe in python needs to be identify the movements in the data which are below Q1 and above Q3
+
+The dataframe then needs to pull the information for keywords
+
+The pytrends library can then pull keywords associated with each pair. Look for words associated with each pair USD, BTC, Oil, 
